@@ -1,0 +1,8 @@
+Akademia Robotica!
+Dzisiejsza data: 17.12.2022
+Zajęcia z Pythona
+Będziemy się dobrze bawili!
+"r" - read (odczyt) domyślna wartość, otwiera plik do odczytu, jeśli nie istnieje wyrzuca błąd.
+"a" - append (dołącz) - otwiera plik w trybie dodawania, tworzy plik jeśli ten nie istnieje.
+"w" - write (zapisz) - otwiera plik w trybie zapisu, tworzy plik jeśli ten nie istnieje.
+"x" - create(utwórz) - tworzy plik o podanej nazwie, jeśli ten istnieje, zwraca błąd.

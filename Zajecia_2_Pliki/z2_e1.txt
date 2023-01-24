@@ -1,0 +1,4 @@
+Witamy w Akademii Robotica.
+Ala ma kota!
+Uczymy się programować w języku python.Dodaję kolejną linię do mojego pliku tekstowego.
+Dodaję linijkę, która najpierw doda spację w pliku
