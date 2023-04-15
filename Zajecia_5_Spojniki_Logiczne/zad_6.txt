@@ -1,0 +1,15 @@
+blackberry	f
+pear	r
+corn	t
+pepper	o
+mandarin	n
+gooseberry	y
+grapes	c
+blackberry	r
+plum	u
+plum	l
+banana	l
+peas	b
+corn	p
+coconut	i
+peas	o

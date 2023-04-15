@@ -1,0 +1,12 @@
+blueberry
+plum
+mandarin
+banana
+strawberry
+raspberry
+grape
+mandarin
+plum
+apple
+apple
+fig
