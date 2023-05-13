@@ -1,0 +1,14 @@
+fig
+zucchini
+raspberry
+papaya
+mandarin
+raspberry
+lemon
+fig
+blueberry	4
+apple	6
+plum	8
+fig	3
+grapes	1
+blueberry	11

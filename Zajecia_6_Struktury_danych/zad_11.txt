@@ -1,0 +1,14 @@
+pear
+lime
+grapes
+strawberry
+lime
+blackberry
+carrot
+apple
+corn
+pear
+peas
+corn
+corn
+strawberry
