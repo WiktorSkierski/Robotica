@@ -1,0 +1,6 @@
+Apple 646 4
+Pear 930 3
+Plum 748 2
+Lemon 862 5
+Lime 874 4
+Grapes 5 5
